@@ -2,7 +2,8 @@
 
 Transform raw customer data into actionable business intelligence. This project implements an unsupervised machine learning pipeline to identify distinct customer personas using **K-Means Clustering**.
 
-[Link to Live Demo / HuggingFace Space]
+![demo](https://github.com/Tanmay1112004/Customer-Segmentation-using-K-Means-Clustering/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20163619.png)          
+![demo](https://github.com/Tanmay1112004/Customer-Segmentation-using-K-Means-Clustering/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20173356.png)           ![demo](https://github.com/Tanmay1112004/Customer-Segmentation-using-K-Means-Clustering/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20173505.png)           ![demo](https://github.com/Tanmay1112004/Customer-Segmentation-using-K-Means-Clustering/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20173612.png)           ![demo](https://github.com/Tanmay1112004/Customer-Segmentation-using-K-Means-Clustering/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20173918.png)
 
 ---
 
