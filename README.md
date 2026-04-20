@@ -79,7 +79,7 @@ Users can input customer metrics and receive an instant segment assignment throu
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/customer-segmentation-kmeans.git
+git clone https://github.com//customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 
 # Install dependencies
