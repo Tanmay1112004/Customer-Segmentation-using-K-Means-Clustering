@@ -108,6 +108,14 @@ python app.py
 * [ ] Add **Silhouette Score** automated validation.
 * [ ] Integration with Snowflake/BigQuery for real-time data streaming.
 
+## 🤝 Contributing
 
+Contributions make the community great!
+
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`).
+3. Commit Changes (`git commit -m 'Add NewFeature'`).
+4. Push to Branch (`git push origin feature/NewFeature`).
+5. Open a **Pull Request**.
 
 ---
